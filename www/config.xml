@@ -51,6 +51,6 @@
     
     <!-- <plugin name="SplashScreen" name="CDWSplashScreen" /> -->
     
-    <gap:plugin name="FastCanvas" value="com.adobe.plugins.fastcanvas" />
+    <gap:plugin name="com.adobe.plugins.fastcanvas" />
 
 </widget>
