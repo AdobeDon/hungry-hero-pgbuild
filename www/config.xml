@@ -10,7 +10,7 @@
 
     <!-- App Description  -->
     <description>
-        This cool game uses the FastCanvas plugin for ultra-fast sprite rendering.
+        This cool game uses the FastCanvas plugin for ultra-fast sprite rendering - this one with the plugin enabled!
     </description>
 
     <author>
@@ -50,5 +50,7 @@
     -->
     
     <!-- <plugin name="SplashScreen" name="CDWSplashScreen" /> -->
+    
+    <gap:plugin id="com.adobe.plugins.fastcanvas" />
 
 </widget>
