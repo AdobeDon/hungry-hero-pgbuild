@@ -21,7 +21,7 @@
     <preference name="phonegap-version" value="2.3.0" />
             
     <!-- general preferences -->
-    <!-- <preference name="orientation" value="landscape" /> -->
+    <preference name="orientation" value="landscape" />
     <preference name="fullscreen" value="true" />
             
     <!-- iOS specific preferences -->
@@ -52,5 +52,5 @@
     <!-- <plugin name="SplashScreen" name="CDWSplashScreen" /> -->
     
     <gap:plugin name="com.adobe.plugins.fastcanvas" />
-
+            
 </widget>
