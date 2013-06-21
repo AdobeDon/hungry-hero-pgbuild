@@ -2,11 +2,11 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
 
-        id          = "com.adobe.woodward.hungry-hero"
+        id          = "com.adobe.woodward.hungry-hero-slow"
         version     = "1.0.0">
             
     <!-- App Name -->
-    <name>Hungry Hero Fast</name>
+    <name>Hungry Hero Slow</name>
 
     <!-- App Description  -->
     <description>
