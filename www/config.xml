@@ -2,7 +2,7 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
 
-        id          = "com.adobe.woodward.hungry-hero-slow"
+        id          = "com.adobe.woodward.hungry-hero"
         version     = "1.0.0">
             
     <!-- App Name -->
@@ -51,6 +51,6 @@
     
     <!-- <plugin name="SplashScreen" name="CDWSplashScreen" /> -->
     
-    <!-- <gap:plugin name="com.adobe.plugins.fastcanvas" /> -->
+    <gap:plugin name="com.adobe.plugins.fastcanvas" />
             
 </widget>
